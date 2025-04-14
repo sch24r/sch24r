@@ -4,6 +4,7 @@
 An undergraduate who has a keen interest in DFIR, Stego, and IT Dev <br>
 Weekly CTFs w/ Heroes Cyber Security <br>
 <br> [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/schello24r) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/schello24r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marchelloputrar) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/sch24r) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/schello24r) <br>
+![](https://komarev.com/ghpvc/?username=sch24r&style=flat) <br>
 
 
 # 💻 Tech Stack
