@@ -14,6 +14,6 @@ An undergraduate who has a keen interest in DFIR, Stego, and IT Dev.
 
 # 🔝 Contributions
 
-![](https://github-readme-stats.vercel.app/api?username=sch24r&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=sch24r&theme=dark&hide_border=true)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sch24r&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br> ![](https://github-contributor-stats.vercel.app/api?username=sch24r&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=sch24r&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sch24r&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br>
 
 </div>
