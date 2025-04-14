@@ -17,7 +17,7 @@ An undergraduate student at Information Systems Department who has a keen intere
 
 
 # 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sch24r&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sch24r&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=false)
 
 
 ---
