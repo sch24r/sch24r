@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/95/e7/3e/95e73efc988e797856d0ba60eaadbc38.gif" width="900" height="300"> <br> <br>
+<img src="https://i.pinimg.com/originals/d7/26/88/d726885cf3309200250eb80e15968cd1.gif" width="900" height="300"> <br> <br>
 
 # 💫 About Me
 An undergraduate who has a keen interest in DFIR, Stego, and IT Dev <br>
