@@ -1,10 +1,11 @@
 <div align="center">
 
+![](https://i.pinimg.com/originals/c8/7e/0c/c87e0c97c8800f12f4b62f2cbe29fc4d.gif) <br> <br>
+
 # 💫 About Me
 An undergraduate who has a keen interest in DFIR, Stego, and IT Dev <br>
 Weekly CTFs w/ Heroes Cyber Security <br>
 <br> ![](https://komarev.com/ghpvc/?username=sch24r&style=flat) <br> <br>
-
 
 # 💻 Tech Stack
 ![](https://github-readme-stats.vercel.app/api?username=sch24r&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sch24r&theme=github_dark&hide_border=true&include_all_commits=true&layout=compact)<br>
