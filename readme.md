@@ -3,7 +3,7 @@
 <img src="https://i.pinimg.com/originals/d7/c9/21/d7c9211c7af010ac6cddaf12a2d5c59f.gif" width="900" height="225"> <br> <br>
 
 # 💫 About Me
-An undergraduate who has a keen interest in DFIR, Stego, and IT Dev <br>
+An undergraduate who has a keen interest in DFIR, Geo, Stego, and IT Dev <br>
 Weekly CTFs w/ Heroes Cyber Security <br>
 <br> ![](https://komarev.com/ghpvc/?username=sch24r&style=flat) <br> <br>
 
