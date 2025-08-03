@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/d7/c9/21/d7c9211c7af010ac6cddaf12a2d5c59f.gif" width="900" height="225"> <br> <br>
+<img src="https://i.pinimg.com/originals/d7/c9/21/d7c9211c7af010ac6cddaf12a2d5c59f.gif" width="900" height="225"> <br>
 
+# 💫 About Me
 An undergraduate interested in DFIR, Geo, Stego, and IT Dev <br>
 Weekly CTFs w/ Heroes Cyber Security <br>
-<br> <br>
+<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=sch24r&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sch24r&theme=github_dark&hide_border=true&include_all_commits=true&layout=compact)<br>
 ![](https://github-readme-activity-graph.vercel.app/graph?username=sch24r&theme=github-dark&hide_border=true&hide_title=true&area=true&radius=10) <br>
