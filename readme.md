@@ -2,7 +2,7 @@
 
 <img src="https://i.pinimg.com/originals/d7/c9/21/d7c9211c7af010ac6cddaf12a2d5c59f.gif" width="900" height="225"> <br>
 
-# 😄 About Me
+# About Me 😄
 An undergraduate interested in DFIR, Geo, Stego, and IT Dev <br>
 Weekly CTFs w/ Heroes Cyber Security <br>
 
