@@ -4,7 +4,7 @@
 
 # About Me 😄
 An undergraduate interested in DFIR, Geo, Stego, and IT Dev <br>
-Weekly CTFs w/ Heroes Cyber Security <br>
+Weekly CTFs w/ [Heroes Cyber Security](https://github.com/heroes-Cyber-Security/) <br>
 
 <br> ![](https://github-readme-stats.vercel.app/api?username=sch24r&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sch24r&theme=github_dark&hide_border=true&include_all_commits=true&layout=compact)
 <br> ![](https://github-readme-activity-graph.vercel.app/graph?username=sch24r&theme=github-dark&hide_border=true&hide_title=true&area=true&radius=10) <br>
